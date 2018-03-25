@@ -29,7 +29,7 @@ bintray {
     dryRun = false
     publish = true
 
-    pkg {
+    pkg {     
         repo = 'maven'
         name = BINTRAY_POM_NAME
         desc = POM_DESCRIPTION
